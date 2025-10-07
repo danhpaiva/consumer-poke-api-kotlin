@@ -1,7 +1,7 @@
 <h1 align="center"> 🖳 Consumer Poke Api 🖳</h1>
 
 <p align="center">
-    <img src="https://github.com/danhpaiva/consumer-poke-api-kotlin/blob/main/image/screen.png?raw=true" width="600" alt="Consumer Poke Api">
+    <img src="https://github.com/danhpaiva/consumer-poke-api-kotlin/blob/main/image/screen.png?raw=true" width="300" alt="Consumer Poke Api">
 </p>
 
 <p align="center">
